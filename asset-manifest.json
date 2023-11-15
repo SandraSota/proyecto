@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SandraSota/proyecto.git/static/css/main.9d821760.css",
-    "main.js": "/SandraSota/proyecto.git/static/js/main.6e9b9868.js",
-    "static/js/787.cbe3d43a.chunk.js": "/SandraSota/proyecto.git/static/js/787.cbe3d43a.chunk.js",
-    "index.html": "/SandraSota/proyecto.git/index.html",
-    "main.9d821760.css.map": "/SandraSota/proyecto.git/static/css/main.9d821760.css.map",
-    "main.6e9b9868.js.map": "/SandraSota/proyecto.git/static/js/main.6e9b9868.js.map",
-    "787.cbe3d43a.chunk.js.map": "/SandraSota/proyecto.git/static/js/787.cbe3d43a.chunk.js.map"
+    "main.css": "/proyecto/static/css/main.9d821760.css",
+    "main.js": "/proyecto/static/js/main.d05a4f48.js",
+    "static/js/787.cbe3d43a.chunk.js": "/proyecto/static/js/787.cbe3d43a.chunk.js",
+    "index.html": "/proyecto/index.html",
+    "main.9d821760.css.map": "/proyecto/static/css/main.9d821760.css.map",
+    "main.d05a4f48.js.map": "/proyecto/static/js/main.d05a4f48.js.map",
+    "787.cbe3d43a.chunk.js.map": "/proyecto/static/js/787.cbe3d43a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9d821760.css",
-    "static/js/main.6e9b9868.js"
+    "static/js/main.d05a4f48.js"
   ]
 }
